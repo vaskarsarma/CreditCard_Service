@@ -1,0 +1,16 @@
+{
+    "request": {
+        "cardHolderName": "vasksaawdsdsdasddsadsdar sarma",
+        "cardNumber": "5241373001586790",
+        "cardLimit": "454545"
+    },
+    "response": {
+        "status": "success",
+        "data": {
+            "cardHolderName": "vasksaawdsdsdasddsadsdar sarma",
+            "cardNumber": "5241373001586790",
+            "balance": "£-0",
+            "cardLimit": "454545"
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "nodeapidemo",
+  "version": "1.0.0",
+  "description": "A demo app for Node JS API Training ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --forceExit",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Vaskar Sarma <Vaskarsarma@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@koa/cors": "^3.0.0",
+    "koa": "^2.8.1",
+    "koa-bodyparser": "^4.2.1",
+    "koa-logger": "^3.2.1",
+    "koa-router": "^7.4.0",
+    "nodemon": "^1.19.2"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "supertest": "^4.0.2"
+  }
+}
